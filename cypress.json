@@ -1,0 +1,8 @@
+{
+  "video": false,
+  "animationDistanceThreshold": 20,
+  "defaultCommandTimeout": 5000,
+  "watchForFileChanges": false,
+  "pageLoadTimeout": 10000,
+  "waitForAnimations": true
+}
